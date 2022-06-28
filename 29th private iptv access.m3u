@@ -1,0 +1,609 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="William Hill TV2" tvg-logo="https://www.williamhillplc.com/media/10432/classic-stacked.jpg"  group-title="BETTING SHOP TV",William Hill TV2
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3HGRoiMu75Nv_jnZwjWAIYqUTa-R0Wr-XcI_Doi9z6ZQ
+#EXTINF:-1 tvg-id="" tvg-name="William Hill TV1" tvg-logo="https://www.williamhillplc.com/media/10432/classic-stacked.jpg"  group-title="BETTING SHOP TV",William Hill TV1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3GoFwSanU1fwK9XWNgDl4CgemUwH8v1l_WB_XJRAPgs1
+#EXTINF:-1 tvg-id="" tvg-name="William Hill BTV" tvg-logo="https://www.williamhillplc.com/media/10432/classic-stacked.jpg"  group-title="BETTING SHOP TV",William Hill BTV
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3GELA29Ol3ZHy9pT8OTZFYIb6OQ8utJtdXEmBG3_Dr_D
+#EXTINF:-1 tvg-id="" tvg-name="SIS Two" tvg-logo=""  group-title="BETTING SHOP TV",SIS Two
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3CgDKx6DeEtzIPGBxv7nFTGWoFvWdXaGNbDDryNxdmhD
+#EXTINF:-1 tvg-id="" tvg-name="SIS Racing" tvg-logo=""  group-title="BETTING SHOP TV",SIS Racing
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3KYcOCmAONF_StWmwYKiHVClBk1Je9ltLJaE39oznCrM
+#EXTINF:-1 tvg-id="" tvg-name="SIS One" tvg-logo=""  group-title="BETTING SHOP TV",SIS One
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Fi3WdH8etm-eRuYt_vaNQ9zZpwhcOyaW90yGkBUYRiY
+#EXTINF:-1 tvg-id="" tvg-name="Paddy Power TV 2" tvg-logo="https://www.honestbettingreviews.com/wp-content/uploads/paddypower_logo.jpg"  group-title="BETTING SHOP TV",Paddy Power TV 2
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3FNjmvgvEN8gaYo1S3Q4zGnNfkmtjCuRfoF0aXl9KDVM
+#EXTINF:-1 tvg-id="" tvg-name="Paddy Power TV 1" tvg-logo="https://www.honestbettingreviews.com/wp-content/uploads/paddypower_logo.jpg"  group-title="BETTING SHOP TV",Paddy Power TV 1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3KGIxNgVvzlpWXUXuET0enJBYVyy4Tm1mdFGR2uHLMBu
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="Ladbrokes TV 3" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ladbrokes-logo-png-transparent.png"  group-title="BETTING SHOP TV",Ladbrokes TV 3
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3K2mInbS1Gwzf2wCI8Sm7am462MMz4ZTsQnNZuDcX3aN
+#EXTINF:-1 tvg-id="" tvg-name="Ladbrokes TV 2" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ladbrokes-logo-png-transparent.png"  group-title="BETTING SHOP TV",Ladbrokes TV 2
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Ae56PJWK_G23dNaWL7xJK4_LUrQtjqOmauprbub1N_8
+#EXTINF:-1 tvg-id="" tvg-name="Ladbrokes TV 1" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ladbrokes-logo-png-transparent.png"  group-title="BETTING SHOP TV",Ladbrokes TV 1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3BuaM_7V4VUHRknO52ej-givbzn0M0HFAsPtDuBmu8Vm
+#EXTINF:-1 tvg-id="" tvg-name="Coral TV 2" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/coral-logo-png-7.png"  group-title="BETTING SHOP TV",Coral TV 2
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3BL6KDc2sFDHiUJw41w1RuwngkZUbl6gDN6uM0rb4fH5
+#EXTINF:-1 tvg-id="" tvg-name="Coral TV 1" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/coral-logo-png-7.png"  group-title="BETTING SHOP TV",Coral TV 1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LKkdLdnEcapkT0oRoVo_t9yguX7pe_S1Rkts0kkwxor
+#EXTINF:-1 tvg-id="" tvg-name="Betfred TV" tvg-logo="https://bookiesfc.com/wp-content/uploads/2018/09/betfred-compressor.png"  group-title="BETTING SHOP TV",Betfred TV
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3NlnjVH7s1bC99oiZ6xmWH86VGlIQ3E2fXxr5-6HdcrF
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="RACING.COM" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa4AAAB1CAMAAAAhpfXwAAAAk1BMVEX/Awj/////AAD/DBD/BQz+bW3/AAT/o6P+9PP//v7/+Pj/wMD///3/Nzf/W1v+ysv+3Nz+7+/+qan+trf/6en+4+P+HiD+cnL/xsb+eXn+sbH+g4T+MDH+Tk/+Y2T+PkD+jo3+TE3+lZX+np/+1dX+f3/+jIz+1db+Ozz+YGL+urv+IyT+x"  group-title="BETTING SHOP TV",RACING.COM
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3F5EsziBHRX0tyCgZfDIfcgp5zwgAHsdAV5lLJaxjyWA
+#EXTINF:-1 tvg-id="" tvg-name="BOOKIES William Hill TV1" tvg-logo=""  group-title="Bookies",BOOKIES William Hill TV1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3M1UhWpvNrLJU3i91vUOemv0Fejv9OsXyF2hhKDUhCCe
+#EXTINF:-1 tvg-id="" tvg-name="BOOKIES William Hill TV2" tvg-logo=""  group-title="Bookies",BOOKIES William Hill TV2
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Jg3RyIGxo8V05yPGRVKTdkOW95DjGoQyn1ZGoQG_mCH
+#EXTINF:-1 tvg-id="" tvg-name="BOOKIES SIS One" tvg-logo=""  group-title="Bookies",BOOKIES SIS One
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3JaiVDCNbJZdAKRr4jZzdeQcAswss_t6Qi1TZIhcUxrS
+#EXTINF:-1 tvg-id="SIS TWO" tvg-name="BOOKIES SIS Two" tvg-logo=""  group-title="Bookies",BOOKIES SIS Two
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3EuYGKDJxfkogDbFPW5D4zqmQg_JioZxfXYGAwmyhjkf
+#EXTINF:-1 tvg-id="" tvg-name="BOOKIES SIS Racing" tvg-logo=""  group-title="Bookies",BOOKIES SIS Racing
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3C0wuUgD9H2WgF59BBVqB5gzPoTq6GAhbm1_CzwA7NPA
+#EXTINF:-1 tvg-id="" tvg-name="BOOKIES Ladbrokes TV 1" tvg-logo=""  group-title="Bookies",BOOKIES Ladbrokes TV 1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3C17J8gTCjTnB7cXcetKY9EJTgotCwNFgeKCmxYzE_wW
+#EXTINF:-1 tvg-id="" tvg-name="BOOKIES Ladbrokes TV 2" tvg-logo=""  group-title="Bookies",BOOKIES Ladbrokes TV 2
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3JICoU-XO4mLubMg0wXbnZY8Dt3OIZjhoS5zxvJVhLdX
+#EXTINF:-1 tvg-id="" tvg-name="BOOKIES Ladbrokes TV 3" tvg-logo=""  group-title="Bookies",BOOKIES Ladbrokes TV 3
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3CQl44jKpT39-CnIhXyM1obhdw5lBp0ZU6X80OosdMrs
+#EXTINF:-1 tvg-id="" tvg-name="BOOKIES Coral TV 1" tvg-logo=""  group-title="Bookies",BOOKIES Coral TV 1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3GOwP_pezqLkmVv6a0cKNpfha7XE_PL7MmNF1_JcwhhL
+#EXTINF:-1 tvg-id="" tvg-name="BOOKIES Coral TV 2" tvg-logo=""  group-title="Bookies",BOOKIES Coral TV 2
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3NPFTUqFnSDwzUjStmPU9oPwobh73I4sdh8m-jBTB_w-
+#EXTINF:-1 tvg-id="" tvg-name="BOOKIES Paddy Power TV 1" tvg-logo=""  group-title="Bookies",BOOKIES Paddy Power TV 1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3OwzqXc3OetagQ1Hp7_R7DUASLhKfcoCk6O2QCnFxE45
+#EXTINF:-1 tvg-id="" tvg-name="BOOKIES Paddy Power TV 3" tvg-logo=""  group-title="Bookies",BOOKIES Paddy Power TV 3
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3PfTlT7YEyBe21zP7wIwyELDhT8EUyp4KHVT6ZJtzb2b
+#EXTINF:-1 tvg-id="BETFRED TV" tvg-name="BOOKIES  Betfred TV" tvg-logo=""  group-title="Bookies",BOOKIES  Betfred TV
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3FwOx50anCyPkn7mmYaih8PS2kPRJsQfbYr9ffDiPFgv
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK: BBC One FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bbc-one-uk.png"  group-title="UK - ENTERTAINMENT",UK: BBC One FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3K1lL5_z95aEhddKv3KMhCw2k8XLajBC9JR96r9B86wL
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK:BBC One HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bbc-one-uk.png"  group-title="UK - ENTERTAINMENT",UK:BBC One HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3GhS_zpme8WaQXrkjAIv6MMDhc693-FN9umgmx72eugg
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK: BBC One SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bbc-one-uk.png"  group-title="UK - ENTERTAINMENT",UK: BBC One SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3L-SL0xThVWMBJhdjzeBiCGjOh03l3uNHlZyZwPBeQHS
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC Two FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bbc-two-uk.png"  group-title="UK - ENTERTAINMENT",UK: BBC Two FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3FXZ2I81ifSimx-8a29D46dW3XTHxCXIhEjqFsjeaCKk
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK:BBC Two HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bbc-two-uk.png"  group-title="UK - ENTERTAINMENT",UK:BBC Two HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Dvb-JTH6ScJcJDkm1neFp73a65bYc74w4WfCn1qngMN
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC Two SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bbc-two-uk.png"  group-title="UK - ENTERTAINMENT",UK: BBC Two SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3IaJ87vYNKg6oFuVqFDvE9XtgqV3u9p6eX5rI250KtQ2
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK: ITV FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-uk.png"  group-title="UK - ENTERTAINMENT",UK: ITV FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3AIwX3NrGpHytgZwFND-r2rlgmJMh5Cfz0Km8tfkwswt
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK:ITV HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-uk.png"  group-title="UK - ENTERTAINMENT",UK:ITV HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3NSaOUQVy2DjdLZMatDKnbFMnKdD-MTFXOW7BfBNsCkV
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK: ITV SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-uk.png"  group-title="UK - ENTERTAINMENT",UK: ITV SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3M6j6375xcyfrq1fkAhj_FBqFXkFOIVz2_xugjPrnPpX
+#EXTINF:-1 tvg-id="itv1angliaplus1.uk" tvg-name="UK: ITV+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: ITV+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3K3VLY2RPqs8m6167I5IWZm_DvoBcTajczyZPSU7MdBp
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK: Channel 4 FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/channel-4-uk.png"  group-title="UK - ENTERTAINMENT",UK: Channel 4 FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Isaf1wL9Y8JAPKYzhyHyV7oWn9oRgRxeawA-TkmEyOL
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK:Channel 4 HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/channel-4-uk.png"  group-title="UK - ENTERTAINMENT",UK:Channel 4 HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3EjyD4LnIys7_YT5Iq66PbtGyMXtFDe269zZ11RqwnXE
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK: Channel 4 SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/channel-4-uk.png"  group-title="UK - ENTERTAINMENT",UK: Channel 4 SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3N-iPv9VvkFDY63TEkSrhkzepQoyezeC8XgmBqY1bgsC
+#EXTINF:-1 tvg-id="channel4plus1.uk" tvg-name="UK:  Channel 4+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/channel-4-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK:  Channel 4+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3BRKaxG9UBMA5it5VB3ehxiB0R5gOcXJGRTbQVpZnryw
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK: Channel 5 FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/channel-5-uk.png"  group-title="UK - ENTERTAINMENT",UK: Channel 5 FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3J4F1I7Fq8C8Zb0brg5eEjQQqN-4DfF2Y38XVtQ5No9y
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK:Channel 5 HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/channel-5-uk.png"  group-title="UK - ENTERTAINMENT",UK:Channel 5 HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3AWqBnT-Pu3kVmUTxxpVMzajuCbafrP4bCBzTA7i6ur-
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK: Channel 5 SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/channel-5-uk.png"  group-title="UK - ENTERTAINMENT",UK: Channel 5 SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3ED9ZVhLabOczSixO6QqqaTylCcHg3kz1Y97fbcT2vMC
+#EXTINF:-1 tvg-id="channel5plus1.uk" tvg-name="UK: Channel 5+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/channel-5-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: Channel 5+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3EuxxcENFlZbQJ4ZBOqSsz5mULjJozr4v-C7Piqqgk55
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC Three HD" tvg-logo="https://www.bbc.co.uk/staticarchive/4511484d66e80bfcb6feb94b060b480cc1eb39d7.jpg"  group-title="UK - ENTERTAINMENT",UK: BBC Three HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3GhnFult-tTDS7MwRkJ8z__ee5evGaObWCrgvLD9eYfg
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC Three" tvg-logo="https://www.bbc.co.uk/staticarchive/4511484d66e80bfcb6feb94b060b480cc1eb39d7.jpg"  group-title="UK - ENTERTAINMENT",UK: BBC Three
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3NuHBIrKy6aPUd9GQLbuBqfskQk0TdCaut4TN3zEsq9b
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="UK: BBC Four FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bbc-four-uk.png"  group-title="UK - ENTERTAINMENT",UK: BBC Four FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3HLiHmDE6QM30_B_CvWa-BSw0_leA-_CKX4AcX9PKZHs
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="UK: BBC Four" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bbc-four-uk.png"  group-title="UK - ENTERTAINMENT",UK: BBC Four
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3ISfE7d64PcJIZdqRjhvEYe5XDYOhu-sMCyhmyVGfVZ1
+#EXTINF:-1 tvg-id="bbcscotland.uk" tvg-name="UK: BBC Scotland FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bbc-scotland-uk.png"  group-title="UK - ENTERTAINMENT",UK: BBC Scotland FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3KZZ4BFocR-XAc_eY3xV42j0ndPa47m_prw5Y20eI4gz
+#EXTINF:-1 tvg-id="bbcalba.uk" tvg-name="UK: BBC Alba" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/BBC_Alba_%28new%29.svg/1200px-BBC_Alba_%28new%29.svg.png"  group-title="UK - ENTERTAINMENT",UK: BBC Alba
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3BbopW9h3vkUlzGr4i1yYpTtXWMMZVe6v7htFKNesyCn
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: ITV2 FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-2-uk.png"  group-title="UK - ENTERTAINMENT",UK: ITV2 FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3NDADRpsoJGMRIBIKyBzX9992-G_BvpapTQn-aXf2ADu
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK:ITV2 HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-2-uk.png"  group-title="UK - ENTERTAINMENT",UK:ITV2 HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3CGrhhxoMcwIg5xrjAn8e1544sU2ge-B8YNcsJPJhRrc
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK: ITV2 SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-2-uk.png"  group-title="UK - ENTERTAINMENT",UK: ITV2 SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Mb8sDRAL7-jk-uUckbH89X61kobQch7xATkB2zLVlQ_
+#EXTINF:-1 tvg-id="itv2plus1.uk" tvg-name="UK: ITV2+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-2-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: ITV2+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3DwEUUm_c76x91KLry_tmRqfvlcArZESxqqB5HtmKWDh
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK: ITV3 FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-3-uk.png"  group-title="UK - ENTERTAINMENT",UK: ITV3 FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3L7WQ2jqjX0LO1DUmbj93oIfmDPVKmsL78XlpVhBanGA
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK:ITV 3 HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-3-uk.png"  group-title="UK - ENTERTAINMENT",UK:ITV 3 HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3PzmAlz_HG6ggV6fCU8vElVKvZDios2E16MBD1VnFDqx
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK: ITV3 SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-3-uk.png"  group-title="UK - ENTERTAINMENT",UK: ITV3 SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3FgKnhrduNfCrAcs-M8fySf-1zP8Zbi42eTtuqsamP52
+#EXTINF:-1 tvg-id="itv3plus1.uk" tvg-name="UK: ITV3 +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-3-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: ITV3 +1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3FSjet_370nMhfpUkydP-6JK16L-3_hwT6RajWPiARvn
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK: ITV4 FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-4-uk.png"  group-title="UK - ENTERTAINMENT",UK: ITV4 FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3N7rRsorj-g0kMORDYG98QfPVrEIXCeZhpq5Tl1npiGs
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK:ITV 4 HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-4-uk.png"  group-title="UK - ENTERTAINMENT",UK:ITV 4 HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3DZ5e3nPzZSOYhPyxBu-6YKHAzYE6ol0Q98Ajwcm5OHR
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK: ITV4 SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-4-uk.png"  group-title="UK - ENTERTAINMENT",UK: ITV4 SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3P1pitkd53Bs-JUF9Kg1gP-gIWizyawe8pGJoGY8NjNX
+#EXTINF:-1 tvg-id="itv4plus1.uk" tvg-name="UK: ITV4+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-4-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: ITV4+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3ErD7de3xfJvmrqEE1f3IBJCp839U5WaVWM97o8VzDBB
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="UK: ITVBe SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-be-uk.png"  group-title="UK - ENTERTAINMENT",UK: ITVBe SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3CJiTZ9c3eeoL_KuX0k_yENqCFX-V4gVk6zbupPtXwx2
+#EXTINF:-1 tvg-id="stv.uk" tvg-name="UK: STV FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/stv-uk.png"  group-title="UK - ENTERTAINMENT",UK: STV FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3FLPvXBpb1bap4m_ffym_tIPPjM6y0l4pqnh7etZDU4C
+#EXTINF:-1 tvg-id="skyarts.uk" tvg-name="UK: Sky Arts FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-arts-uk.png"  group-title="UK - ENTERTAINMENT",UK: Sky Arts FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3PpK26FTtdZjALyNfV7D_e0rDrVc0nLo_UUz9ze_PSxv
+#EXTINF:-1 tvg-id="skyarts.uk" tvg-name="UK:Sky Arts HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-arts-uk.png"  group-title="UK - ENTERTAINMENT",UK:Sky Arts HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Gxi-kX1wMciaRDMzmz9zdoRwLuyR8xtyl53YCrm_WI0
+#EXTINF:-1 tvg-id="skyarts.uk" tvg-name="UK: Sky Arts SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-arts-uk.png"  group-title="UK - ENTERTAINMENT",UK: Sky Arts SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3J_x32krNkV-PpCqCwYHgeqvJY4hnKaPOcoiYUubG8VL
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="UK: Sky Atlantic FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-atlantic-uk.png"  group-title="UK - ENTERTAINMENT",UK: Sky Atlantic FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3KuCZ9ScqNOC5QCyMSVGGBjJKUbOzsi_f-Q-ZBKuDVE8
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="UK:Sky Atlantic HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-atlantic-uk.png"  group-title="UK - ENTERTAINMENT",UK:Sky Atlantic HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3BG391m_1MIYVuf0Y8QDa58tC53HNfb-lsuT_UMxdg3f
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="UK: Sky Atlantic SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-atlantic-uk.png"  group-title="UK - ENTERTAINMENT",UK: Sky Atlantic SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3G7ad0n216knahJ24i1IIX2kjMUcA2uEiRfkGEj5yQkW
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK: Sky Comedy FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-comedy-icon-uk.png"  group-title="UK - ENTERTAINMENT",UK: Sky Comedy FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Ay4VyxKdWYztIaoM3AmZbwQVm66M7mqSF72-fzK8yab
+#EXTINF:-1 tvg-id="skycomedyhd.uk" tvg-name="UK:Sky Comedy HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-comedy-icon-uk.png"  group-title="UK - ENTERTAINMENT",UK:Sky Comedy HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Iq3Q73jjs2kodWB2P7gf1eMiu5Dy0ZxEpXHOA3dIzLG
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK: Sky Comedy SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-comedy-icon-uk.png"  group-title="UK - ENTERTAINMENT",UK: Sky Comedy SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3GUbrGYIMH0W10SirLD48y9Fthx4YdolfkNGxFRAs_GJ
+#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="UK: Sky Crime FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-crime-uk.png"  group-title="UK - ENTERTAINMENT",UK: Sky Crime FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3AW1UmI4HqYDap56ze_nYRSrayZjRUgb0Fws9N9nyswF
+#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="UK:Sky Crime HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-crime-uk.png"  group-title="UK - ENTERTAINMENT",UK:Sky Crime HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Ma4vRCCUvPJljaSK8WehY0NVbCyhImk8wM7l96BIH-9
+#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="UK: Sky Crime SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-crime-uk.png"  group-title="UK - ENTERTAINMENT",UK: Sky Crime SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3A90TDTDLlr4P6Ykskl6_ealx45CBkhLLxWdL9zoqn0L
+#EXTINF:-1 tvg-id="skymax.uk" tvg-name="UK: Sky Max FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-max-uk.png"  group-title="UK - ENTERTAINMENT",UK: Sky Max FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LwlQC9Gu_trgSjlAe3IZwNw-gwzRCO-72A-mhpWJyWl
+#EXTINF:-1 tvg-id="skymax.uk" tvg-name="UK: Sky Max SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-max-uk.png"  group-title="UK - ENTERTAINMENT",UK: Sky Max SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Ggc7YUdKXw2YCr6j1ViBGRGR3EEqvhTzey6-akLnMLr
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: Sky Replay" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-replay-uk.png"  group-title="UK - ENTERTAINMENT",UK: Sky Replay
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3JjlMYQoHA14EWPAdOXsgFS1aX3E20hcUOOW3J-aCcXr
+#EXTINF:-1 tvg-id="skyshowcase.uk" tvg-name="UK:  Sky Showcase FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-showcase-uk.png"  group-title="UK - ENTERTAINMENT",UK:  Sky Showcase FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LGITRzPuwGkEhuFbMuz0GHWnUQRtlQes5ayS9Qg415m
+#EXTINF:-1 tvg-id="skyshowcase.uk" tvg-name="UK:Sky Showcase HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-showcase-uk.png"  group-title="UK - ENTERTAINMENT",UK:Sky Showcase HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3C5f90rZO9mv1zu7U4RbJGOZPiMxr78ZmSBya_jYf307
+#EXTINF:-1 tvg-id="skyshowcase.uk" tvg-name="UK: Showcase" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-showcase-uk.png"  group-title="UK - ENTERTAINMENT",UK: Showcase
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3ENMdEuoEvS8LGCizUgbWIW3wdK2VOegKLVcwCBB7OBw
+#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="UK: Sky Witness FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-witness-uk.png"  group-title="UK - ENTERTAINMENT",UK: Sky Witness FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Inn7rjx03nTJRhHM59soswls92zii_lV-IMLQUK3gk_
+#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="UK:Sky Witness HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-witness-uk.png"  group-title="UK - ENTERTAINMENT",UK:Sky Witness HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LnUJC4vwmdUZhZsoKahwXxaoXqiOV1Om5gcPznukytd
+#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="UK: Sky Witness SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-witness-uk.png"  group-title="UK - ENTERTAINMENT",UK: Sky Witness SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Hwu4dYgG0nz3WMH7bEMXj0TVy4UpKX0GaNlEz61F2Zx
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK: 4seven" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/4-seven-uk.png"  group-title="UK - ENTERTAINMENT",UK: 4seven
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3NLmzl4tTnlSw8MpAYgrow22PXzql-PLYVHEd4YKpH2u
+#EXTINF:-1 tvg-id="paramount.uk" tvg-name="UK: 5 Action" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1053.1641764806.png"  group-title="UK - ENTERTAINMENT",UK: 5 Action
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3CnxDVzBwJ9QO1QlAYNZQUgT0qwfFRaS0Ia3-PrYK8qa
+#EXTINF:-1 tvg-id="5select.uk" tvg-name="UK: 5SELECT" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/5-select-uk.png"  group-title="UK - ENTERTAINMENT",UK: 5SELECT
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3EM0gr7FuCIIxaSsObtjRAAZDGop62TcynEHd46ltgba
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK: 5STAR" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/5-star-uk.png"  group-title="UK - ENTERTAINMENT",UK: 5STAR
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3GRiIC95xyvtLU09T6alA3_SpBricOcZx2lV4_eRZZVY
+#EXTINF:-1 tvg-id="5starplus1.uk" tvg-name="UK: 5STAR+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/5-star-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: 5STAR+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3MwN0ms7ZFd2YkMyfpXf_Xkoy_04HuXO2aHoJRVPk6b6
+#EXTINF:-1 tvg-id="fiveusa.uk" tvg-name="UK: 5 USA" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/5-usa-uk.png"  group-title="UK - ENTERTAINMENT",UK: 5 USA
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3DBp9x01S9gtE2k1PZpL_ZmONEP0wSoTkEalIvvjJpKa
+#EXTINF:-1 tvg-id="fiveusaplus1.uk" tvg-name="UK: 5USA+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/5-usa-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: 5USA+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Lqn8nuI_8PEd-hhj8oG58sNqs8PkJBx-uMiOKhmgqQQ
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="UK: alibi FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/alibi-uk.png"  group-title="UK - ENTERTAINMENT",UK: alibi FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3K7ryMZvkzBcG81poC3vVNtKJCHU4j0lQSgxasYSwyj8
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="UK:Alibi HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/alibi-uk.png"  group-title="UK - ENTERTAINMENT",UK:Alibi HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3M-7taBbwmraPuFmJgihjaq7jy-sEf68cQRTlubj1LAN
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="UK: alibi SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/alibi-uk.png"  group-title="UK - ENTERTAINMENT",UK: alibi SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3B3bH96GLvGJUFGdnl3QlT2oK0DtkjtbZcALK8h55rzC
+#EXTINF:-1 tvg-id="alibiplus1.uk" tvg-name="UK: alibi+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/alibi-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: alibi+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LTXA9_futOhLAFxu-p3MPAsZhWB9lQYUtsYUB5omG9z
+#EXTINF:-1 tvg-id="blaze.uk" tvg-name="UK: BLAZE" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/blaze-uk.png"  group-title="UK - ENTERTAINMENT",UK: BLAZE
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3MXnxACrdWBTv-r71pDTLrVQzdGdlszhU_Zk4P23-bXf
+#EXTINF:-1 tvg-id="cbsdrama.uk" tvg-name="UK: CBS Drama" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/cbs-drama-uk.png"  group-title="UK - ENTERTAINMENT",UK: CBS Drama
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3KHTP7H5fMmXJsbp2ympBLy2ttsgH0iIsHDbZFD0utim
+#EXTINF:-1 tvg-id="cbsjustice.uk" tvg-name="UK: CBS Justice" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/cbs-justice-uk.png"  group-title="UK - ENTERTAINMENT",UK: CBS Justice
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3PJIxHRCZevUViKIQCkDmXZaK-yRg7mE5kgQIkqEEOSo
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="UK: CBS Reality" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/cbs-reality-uk.png"  group-title="UK - ENTERTAINMENT",UK: CBS Reality
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3GUKjh_vR0UpmDR7XEYX1P3rb8e1Ma0E11zO4Ra61AIX
+#EXTINF:-1 tvg-id="cbsrealityplus1.uk" tvg-name="UK: CBS Reality+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/cbs-reality-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: CBS Reality+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3BpQO5jCxsiXSn5OV-nUeI9xaLK64AnSKcJN2QeQAKq0
+#EXTINF:-1 tvg-id="challenge.uk" tvg-name="UK: Challenge" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/challenge-uk.png"  group-title="UK - ENTERTAINMENT",UK: Challenge
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3JRoSeCb9709c3MOQfwB3Owe65swB67diQtucRAlmUnF
+#EXTINF:-1 tvg-id="comedycentralplus1.uk" tvg-name="UK: ComedyCent+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/comedy-central-plus-icon-uk.png"  group-title="UK - ENTERTAINMENT",UK: ComedyCent+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3HXnbA_qbA479zb2i9UDYX4Uy6x2K-yABIfQIfMzYd7R
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK: ComedyCent FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/comedy-central-uk.png"  group-title="UK - ENTERTAINMENT",UK: ComedyCent FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LmyRvDe0yw4-jCiyPdFUKKeSo8FOIAarQyqMTCWsPsc
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK:Comedy Central HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/comedy-central-uk.png"  group-title="UK - ENTERTAINMENT",UK:Comedy Central HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LUO9D-EpnsoGIFvmXQEqGzSGDW5Zha-2SgcJBHPAvO0
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK: ComedyCentral SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/comedy-central-uk.png"  group-title="UK - ENTERTAINMENT",UK: ComedyCentral SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LSh4Cw9VDzM4p9pnyL0ZLa5YEyZe0ZZmjz4kpQwX3ZY
+#EXTINF:-1 tvg-id="comedycentralextra.uk" tvg-name="UK: ComedyXtra" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/comedy-central-extra-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: ComedyXtra
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3BbSiYtBNAXlrg-1K5ZFimVFUPJvRvx8wz1-f2nid2Fp
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK: Dave FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/dave-uk.png"  group-title="UK - ENTERTAINMENT",UK: Dave FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Ed-grzAC9-dpnvTnlsp5-LmuozznBom3uRj3VFQBQTb
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK:Dave HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/dave-uk.png"  group-title="UK - ENTERTAINMENT",UK:Dave HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3B4Jzc9Up-PAFNcWVyR8j7wuqxKgRDMfAwy9KjKpUjXD
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK: Dave SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/dave-uk.png"  group-title="UK - ENTERTAINMENT",UK: Dave SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Lj-N3MUBn7mSwHDac2_VBQTK3SCMFaIX2KkpDNdbB1X
+#EXTINF:-1 tvg-id="davejavu.uk" tvg-name="UK: Dave ja vu" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/dave-ja-vu-uk.png"  group-title="UK - ENTERTAINMENT",UK: Dave ja vu
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3CivhPWakXeeSfVkNQBKcFDduLpQAOIuzrQOMUgKtydl
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="UK: DMAX" tvg-logo="http://toofasttoosecure.xyz/resize.php?max=42&url=https://apk.urlfile.xyz/tvchannels/united-kingdom/drama-uk.png"  group-title="UK - ENTERTAINMENT",UK: DMAX
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3DyrXE2b67vxluTV31PRf_USjDELUXtj53AZuP7Evjwf
+#EXTINF:-1 tvg-id="discoverydmaxplus1.uk" tvg-name="UK: DMAX+1" tvg-logo="http://toofasttoosecure.xyz/resize.php?max=42&url=https://apk.urlfile.xyz/tvchannels/united-kingdom/drama-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: DMAX+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3HSXysLeoYWDJcMp4nBGfgEwOIgGyiY4KxM1EybfV4UB
+#EXTINF:-1 tvg-id="drama.uk" tvg-name="UK: Drama" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/drama-uk.png"  group-title="UK - ENTERTAINMENT",UK: Drama
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3MSPLmyiqQh5KbEcyU7-cx0R5l5O6qxRyxYSJRq9q5dN
+#EXTINF:-1 tvg-id="dramaplus1.uk" tvg-name="UK: Drama+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/drama-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: Drama+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3MLJxl_3mSQnfYX48setaDlI1koh9S1oqonbdsg2g5qT
+#EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="UK: E! FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/e-entertainment-uk.png"  group-title="UK - ENTERTAINMENT",UK: E! FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3EFoCiXYB53LLd1yi_aej8Q2aTj-lTFqW2uTrRUi8jBe
+#EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="UK:E! Entertainment HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/e-entertainment-uk.png"  group-title="UK - ENTERTAINMENT",UK:E! Entertainment HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3A3MowJYp0UY965paGBOXlYW8dDHuCwC7UTjzU2s3dtA
+#EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="UK: E! SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/e-entertainment-uk.png"  group-title="UK - ENTERTAINMENT",UK: E! SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3NPt6tzhgePHidR4sSruRpc4-1JfxsFI-4vq1uXT05yu
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK: E4 FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/e-4-uk.png"  group-title="UK - ENTERTAINMENT",UK: E4 FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3CP6ph49kXhdYtjYtDsoiFM1Z731zfqITloiRoJsIfIk
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK:E4 HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/e-4-uk.png"  group-title="UK - ENTERTAINMENT",UK:E4 HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3CQcDVx7sVYJT3-3RHTIbQwAqKbH6s3rb_8OXl7--sKG
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK: E4 SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/e-4-uk.png"  group-title="UK - ENTERTAINMENT",UK: E4 SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3OEI86KV-wG5dQ_tTID-cHLel2ywG-ZdCo_FPBvlxmzu
+#EXTINF:-1 tvg-id="e4plus1.uk" tvg-name="UK: E4+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/e-4-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: E4+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3G9IsjBdVhpQa7p9ok5NhYUMcAwtZuis3i-5IGWEfJkh
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK: Film4 FHD" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple/v4/5b/e7/83/5be7834e-9cc9-48e9-7442-2cc9055d177b/mzl.kyfjcwxc.png/1200x600wa.png"  group-title="UK - ENTERTAINMENT",UK: Film4 FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LcCW6tPERRAVDAqVEIvYTAPRAwdCImupPegNlxRV95f
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK:Film 4 HD" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple/v4/5b/e7/83/5be7834e-9cc9-48e9-7442-2cc9055d177b/mzl.kyfjcwxc.png/1200x600wa.png"  group-title="UK - ENTERTAINMENT",UK:Film 4 HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3DtEzNkxG1yOf4JhV05_1z4vMSAQUtHfCPvHH8k1-94J
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK: Film4 SD" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple/v4/5b/e7/83/5be7834e-9cc9-48e9-7442-2cc9055d177b/mzl.kyfjcwxc.png/1200x600wa.png"  group-title="UK - ENTERTAINMENT",UK: Film4 SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3HF08STa3oWkwpg2s7SthaxFR6Cl2tNpXwp5rRB9CSQ1
+#EXTINF:-1 tvg-id="film4plus1.uk" tvg-name="UK: Film4 +1" tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xFILM4P1.png"  group-title="UK - ENTERTAINMENT",UK: Film4 +1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3IEFQQQJUPS7oAlz8F8p2qm3e7kGJOewXsJdn3M61B5N
+#EXTINF:-1 tvg-id="forcestv.uk" tvg-name="UK: Forces TV" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/forces-tv-uk.png"  group-title="UK - ENTERTAINMENT",UK: Forces TV
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3FUfzFaGFCs-mwr42GKxrHqKpaFeE9XfF7c5H4TqBXdN
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK: GOLD FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/gold-uk.png"  group-title="UK - ENTERTAINMENT",UK: GOLD FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3ExWmFKzqNVmWPEfpQAHCn5FMC-olDYmHzWcEiZiCbFH
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK:Gold HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/gold-uk.png"  group-title="UK - ENTERTAINMENT",UK:Gold HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Mr89iNPnFa7Au9F2VlxHNAhJay967D95ZmtE_Ll6O3e
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK: GOLD SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/gold-uk.png"  group-title="UK - ENTERTAINMENT",UK: GOLD SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3KzBbbAQeQHGNLJWD6Ji1obvBs-Rnsuf7SK8XhllrewI
+#EXTINF:-1 tvg-id="goldplus1.uk" tvg-name="UK: GOLD+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/gold-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: GOLD+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3OOmUj-CXg54nAbmyumV61Z7hNjkaR5G3osg9c3ETKey
+#EXTINF:-1 tvg-id="" tvg-name="UK: GREAT Action" tvg-logo=""  group-title="UK - ENTERTAINMENT",UK: GREAT Action
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3D87_djyqAFkp4EsYIz4KekXQtI3MMwV4GPb-AlUy9Dx
+#EXTINF:-1 tvg-id="" tvg-name="UK: GREAT Action+1" tvg-logo=""  group-title="UK - ENTERTAINMENT",UK: GREAT Action+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3KcTnNMRJnYoFKxqm6AWnTlD9FLEA9kcdMfl2N9W-7Fz
+#EXTINF:-1 tvg-id="" tvg-name="UK: GREAT Classic" tvg-logo=""  group-title="UK - ENTERTAINMENT",UK: GREAT Classic
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3NUPrXqeIEBQPv8d2OPlcIbDpxyk5c0_Onioadh6r5Vv
+#EXTINF:-1 tvg-id="" tvg-name="UK: GREAT Classic+1" tvg-logo=""  group-title="UK - ENTERTAINMENT",UK: GREAT Classic+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Jq0LNOeVPzMcSNHjHrFQItPRoHvbJPRJiRRyGiqtzmN
+#EXTINF:-1 tvg-id="" tvg-name="UK: GREAT Movies" tvg-logo=""  group-title="UK - ENTERTAINMENT",UK: GREAT Movies
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Fsk9S0Fh1lKf9eEzhSBxzTsoD6icoO4qrlqEw4m2AZt
+#EXTINF:-1 tvg-id="" tvg-name="UK GREAT Movies+1" tvg-logo=""  group-title="UK - ENTERTAINMENT",UK GREAT Movies+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3O08qUoP12MWxpqEJUcGbQEV4gGSUL74YDDmI_mKMrQX
+#EXTINF:-1 tvg-id="" tvg-name="UK: GREAT TV" tvg-logo=""  group-title="UK - ENTERTAINMENT",UK: GREAT TV
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3MnuUKtGcnPQZ_kWhLqYJUUI06Q1HKa7bZL83TcG27Wa
+#EXTINF:-1 tvg-id="" tvg-name="UK: GREAT TV+1" tvg-logo=""  group-title="UK - ENTERTAINMENT",UK: GREAT TV+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3G5z73o2C_zGglIbFJtPrspkVYw0NXZj8BYt96-sPYw_
+#EXTINF:-1 tvg-id="hgtv.uk" tvg-name="UK: HGTV" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/hgtv-uk.png"  group-title="UK - ENTERTAINMENT",UK: HGTV
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3FYvpId2c0HZ1o5zp04Be9hoBG70ePmrjBdHZHYgF9fj
+#EXTINF:-1 tvg-id="hgtvplus1.uk" tvg-name="UK: HGTV+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/hgtv-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: HGTV+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3GAYT3fJsE-5w9r7NYI_iwIHE8UzpVs3_yw-Tl58CzUM
+#EXTINF:-1 tvg-id="horrorchannelplus1.uk" tvg-name="UK: Horror ch+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/horror-channel-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: Horror ch+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3AOWKm462b5SGnJzXPj2F-dPF9TLubrQWVUzdgB_YOFD
+#EXTINF:-1 tvg-id="horrorchannel.uk" tvg-name="UK: Horror channel" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/horror-channel-uk.png"  group-title="UK - ENTERTAINMENT",UK: Horror channel
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3GOvkOMDin05sUHBagIfaHZTJ-nT6CTiAdHfie5ybfeF
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK: More 4 FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/4-more-uk.png"  group-title="UK - ENTERTAINMENT",UK: More 4 FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Dw_NfyTUB6XrANxyEDGkqiSNI4of2kXXgtSecungMl7
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK:More4 HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/4-more-uk.png"  group-title="UK - ENTERTAINMENT",UK:More4 HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LdPe8UGlhtieneoyrkaSDVkR81qjL4n6Q15YrfV_PV9
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK: More 4 SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/4-more-uk.png"  group-title="UK - ENTERTAINMENT",UK: More 4 SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3KGvJprKi9rWraLS-CONjtO5Au9StHeBXkgwhVTDjPdk
+#EXTINF:-1 tvg-id="more4plus1.uk" tvg-name="UK: More 4+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/4-more-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: More 4+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LY5BcdpYqdf9MRB6PAcX6E20RdrI9usm6DjFX68Aw-5
+#EXTINF:-1 tvg-id="mtv.uk" tvg-name="UK:MTV HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/mtv-uk.png"  group-title="UK - ENTERTAINMENT",UK:MTV HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Nx4nal7X1AXwrNiVfluLzrtChet_RzkZbTTStJXzzRM
+#EXTINF:-1 tvg-id="pbsamerica.uk" tvg-name="UK: Pbs America" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/pbs-america-uk.png"  group-title="UK - ENTERTAINMENT",UK: Pbs America
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3KOBtwX6R8QB4eclhBsBZ5GInI5JgW-DhGv52RlUykiY
+#EXTINF:-1 tvg-id="picktv.uk" tvg-name="UK: Pick" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/pick-uk.png"  group-title="UK - ENTERTAINMENT",UK: Pick
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3PxeM8934jXk8WReaxNzfb70WWvgWXn8YJcD5m4-oEve
+#EXTINF:-1 tvg-id="picktvplus1.uk" tvg-name="UK: Pick+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/pick-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: Pick+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Dmax6f4mteUjF7D-sFjktkrK4h-QdMQag1x44K4RKDj
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK: QUEST FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/quest-uk.png"  group-title="UK - ENTERTAINMENT",UK: QUEST FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LXo6FkoSNKaOGSntZomA8P68-wtc5H0SdkNtG92f82x
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK:Quest HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/quest-uk.png"  group-title="UK - ENTERTAINMENT",UK:Quest HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LJ1-aowHHnotjQ4xxFIXIZylo3tLfC6-2Ofmou5J6uv
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK: QUEST SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/quest-uk.png"  group-title="UK - ENTERTAINMENT",UK: QUEST SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3KCw19PgPLwllkXazi7op21b3pBfkGKa6wkV3I12K3OR
+#EXTINF:-1 tvg-id="questplus1.uk" tvg-name="UK: QUEST+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/quest-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: QUEST+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3NgcW8HLSGxijO22eEDMkHN-jzGS1xi88X6ALeU8YRZ6
+#EXTINF:-1 tvg-id="questred.uk" tvg-name="UK: Quest Red" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/quest-red-uk.png"  group-title="UK - ENTERTAINMENT",UK: Quest Red
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3DVF5CchGUlBwp2xNRHUfzDOrTSckatl5ejR7jMsiKH_
+#EXTINF:-1 tvg-id="questredplus1.uk" tvg-name="UK: Quest Red+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/quest-red-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: Quest Red+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3I2LdisJFu2z0uHxNwJ_VWCoj-CytyJxdYYcYB7U1e8M
+#EXTINF:-1 tvg-id="really.uk" tvg-name="UK: Really" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/really-uk.png"  group-title="UK - ENTERTAINMENT",UK: Really
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3EtjlMVibJQ4qwep3KWvI2uCugZrsYxw72HOgSy5Cx-Z
+#EXTINF:-1 tvg-id="s4c.uk" tvg-name="UK: S4C FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/s4c-uk.png"  group-title="UK - ENTERTAINMENT",UK: S4C FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Mu4_p2IqVWyW417dO_bGmv88a-WE6SXNm2TJvThHcTQ
+#EXTINF:-1 tvg-id="s4c.uk" tvg-name="UK: S4C HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/s4c-uk.png"  group-title="UK - ENTERTAINMENT",UK: S4C HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3EwGDXTCDcyR52ZpR4oAhPd_NHITjc2EGiFr-XfmqajB
+#EXTINF:-1 tvg-id="s4c.uk" tvg-name="UK: S4C SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/s4c-uk.png"  group-title="UK - ENTERTAINMENT",UK: S4C SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LVbZCgWdBLfeN-BJONM7oSGddAdPZAvZYM1oas1yhV2
+#EXTINF:-1 tvg-id="smithsonian.uk" tvg-name="UK: Smithsonian SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/smithsonian-channel-uk.png"  group-title="UK - ENTERTAINMENT",UK: Smithsonian SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3EIF0cBpAl8tzm_A35S_eXyv4MJRCULmhtXKzCTZpGMO
+#EXTINF:-1 tvg-id="sonytv.uk" tvg-name="UK: Sony tv" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sony-entertainment-television-uk.png"  group-title="UK - ENTERTAINMENT",UK: Sony tv
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3NLFkWbkEeKFiofnSOFyYj5mkHzOQ8EtUG_-uDZ_H-Tf
+#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="UK: SONY MAX FHD" tvg-logo="https://download.logo.wine/logo/Sony_Max/Sony_Max-Logo.wine.png"  group-title="UK - ENTERTAINMENT",UK: SONY MAX FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3JDn9vbQFVYXxRHDZUwhHIn4rqRkcUN6JlMTSJ6fWmUr
+#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="UK:Sony Max HD" tvg-logo="https://download.logo.wine/logo/Sony_Max/Sony_Max-Logo.wine.png"  group-title="UK - ENTERTAINMENT",UK:Sony Max HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LMXSZ5-qw6geTlvRAsPXoJCb8dPX93zjX9kSdfe6MjJ
+#EXTINF:-1 tvg-id="sonymax2.uk" tvg-name="UK: SONY MAX 2" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2021/01/Sony-MAX2-250.png"  group-title="UK - ENTERTAINMENT",UK: SONY MAX 2
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Ofhzg0aYQiVZP-qxSbgg-2CyNdcrjYmrsLS7epyb5OQ
+#EXTINF:-1 tvg-id="sonytv.uk" tvg-name="UK: SONY TV FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sony-entertainment-television-uk.png"  group-title="UK - ENTERTAINMENT",UK: SONY TV FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3KkhG6A0zvBCBo06HBwQ5f4UU35gneFY0QQDkQuhZ2I-
+#EXTINF:-1 tvg-id="sonytv.uk" tvg-name="UK:Sony TV HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sony-entertainment-television-uk.png"  group-title="UK - ENTERTAINMENT",UK:Sony TV HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3MWkO063gjsA3njtZ4GsH7bhw8YPWa3UiB0z_VxvlX9p
+#EXTINF:-1 tvg-id="spotlighttv.uk" tvg-name="UK: Spotlight TV" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/spotlight-uk.png"  group-title="UK - ENTERTAINMENT",UK: Spotlight TV
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3GY-ChPXZDFKgL6sJiNJrUSKAoVZm83yyEMVTBrd4oq8
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="UK: SYFY FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/syfy-uk.png"  group-title="UK - ENTERTAINMENT",UK: SYFY FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Fi-XCGTvQXSp9qTKBhCLVVcSUA0g0qPoPJjrFbm1vvG
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="UK:SyFy HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/syfy-uk.png"  group-title="UK - ENTERTAINMENT",UK:SyFy HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3L0b60Y_FHnU94lqzxUXlYm0dCFduiabKruv5oo8W4Fk
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="UK: SYFY SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/syfy-uk.png"  group-title="UK - ENTERTAINMENT",UK: SYFY SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3AR8mWwm4-oA4dIPQwof6css9V3Q9oBPVuer6-wxUnVk
+#EXTINF:-1 tvg-id="talktv.uk" tvg-name="UK: Talk TV" tvg-logo="https://www.news.co.uk/s3/newukwebsite-prod/uploads/2022/01/TalkTV-logo-652x364.png"  group-title="UK - ENTERTAINMENT",UK: Talk TV
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3OHPieeptl5_10c8aWp-ifQ7uZ5mJTyxpqbFkIJ1UhO6
+#EXTINF:-1 tvg-id="talkingpictures.uk" tvg-name="UK: TalkingPictures" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/talking-pictures-tv-uk.png"  group-title="UK - ENTERTAINMENT",UK: TalkingPictures
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3GS3kjKgL2xSQDdkRjjc4NOTSz7oKh2tagIGtSiBoXHY
+#EXTINF:-1 tvg-id="tcm.uk" tvg-name="UK: TCM" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/tcm-movies-uk.png"  group-title="UK - ENTERTAINMENT",UK: TCM
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3ErKmqyORVFkXULcgnic3Sh4cBOCZ33D6u1H3OmlO3VJ
+#EXTINF:-1 tvg-id="tcmplus1.uk" tvg-name="UK: TCM Movies+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/tcm-movies-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: TCM Movies+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3BY-lbyE0TDIim14h7DFzYUYn6O9E1gtwmcRgglgYj2B
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK: TLC FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/tlc-uk.png"  group-title="UK - ENTERTAINMENT",UK: TLC FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3MlVOC0xb2zy4KOPt-Bph4AonpTVXGOp9a-bMZo9u4K0
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK:TLC HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/tlc-uk.png"  group-title="UK - ENTERTAINMENT",UK:TLC HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3KnfN83pdamfblmgLKmJp5S3OaTq29s-HiSCUtorEVmn
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK: TLC SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/tlc-uk.png"  group-title="UK - ENTERTAINMENT",UK: TLC SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3BNieIcfDJBtw7ke7TFsmsV-jkKI6ACcadef7Xx9mIW0
+#EXTINF:-1 tvg-id="tlcplus1.uk" tvg-name="UK: TLC+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/tlc-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: TLC+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3NhymqJpvEAxe_6s7y05g5ja32bxXAE7_KdXowfkjRyN
+#EXTINF:-1 tvg-id="togethertv.uk" tvg-name="UK: Together TV" tvg-logo="https://pbs.twimg.com/profile_images/1478334487226372097/L78VXebm.png"  group-title="UK - ENTERTAINMENT",UK: Together TV
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3MYsiFF588N2xb0ptf2QefwUb8Z5HEEiB5YvmafazFo0
+#EXTINF:-1 tvg-id="" tvg-name="UK: WATCH FHD" tvg-logo="https://centaur-wp.s3.eu-central-1.amazonaws.com/designweek/prod/content/uploads/2016/01/18165701/W-Hero-Logo-UKTV.jpg"  group-title="UK - ENTERTAINMENT",UK: WATCH FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3EGsYPIp7jFZcoA6mAMGzqe1VeIslr-Uuy_MTHcilQpH
+#EXTINF:-1 tvg-id="" tvg-name="UK:Watch HD" tvg-logo="https://centaur-wp.s3.eu-central-1.amazonaws.com/designweek/prod/content/uploads/2016/01/18165701/W-Hero-Logo-UKTV.jpg"  group-title="UK - ENTERTAINMENT",UK:Watch HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3BezSoQquXpnNHgo4lJKn7_La7NdHf1O-a06ylr2iJ_X
+#EXTINF:-1 tvg-id="" tvg-name="UK: Watch SD" tvg-logo="https://centaur-wp.s3.eu-central-1.amazonaws.com/designweek/prod/content/uploads/2016/01/18165701/W-Hero-Logo-UKTV.jpg"  group-title="UK - ENTERTAINMENT",UK: Watch SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3OWysdni9pMR3uoJo5pjo_3vh9ZHFbqXTybMPuSETcCR
+#EXTINF:-1 tvg-id="" tvg-name="UK: Watch +1" tvg-logo="https://centaur-wp.s3.eu-central-1.amazonaws.com/designweek/prod/content/uploads/2016/01/18165701/W-Hero-Logo-UKTV.jpg"  group-title="UK - ENTERTAINMENT",UK: Watch +1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3BtwRDR2_hC11zb-u0aLgpDYdVIur6-OTe-c7MDE9HpV
+#EXTINF:-1 tvg-id="yesterday.uk" tvg-name="UK: YESTERDAY" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/yesterday-uk.png"  group-title="UK - ENTERTAINMENT",UK: YESTERDAY
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Lw8jHDh8-Fi55XDC0X-zCegZQjECCBHWIdLOaL9sn4q
+#EXTINF:-1 tvg-id="yesterdayplus1.uk" tvg-name="UK: YESTERDAY+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/yesterday-plus-uk.png"  group-title="UK - ENTERTAINMENT",UK: YESTERDAY+1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3HmeNHeh6YvEU0PjyoMeSSq1-zpumcfO0yhB0lcjl2em
+#EXTINF:-1 tvg-id="courttv.uk" tvg-name="UK: Court TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png"  group-title="UK - ENTERTAINMENT",UK: Court TV
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3C35FSHFaaEHXekg9GP-DPTpJNt21Q4FJ9SviKFmehRX
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sports Arena FHD 50FPS" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-arena-uk.png"  group-title="UK - SPORTS",UK: Sky Sports Arena FHD 50FPS
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3BaCQwuHhDcpTY0TGNDnDomKiJcdu3EesgWkhMxlXuFu
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sports Arena FHD HEVC 25fps" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-arena-uk.png"  group-title="UK - SPORTS",UK: Sky Sports Arena FHD HEVC 25fps
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3M45vsm0uqlxsFxD7VX3WCLp_u1Z23BpmJCa0MrxfVlU
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-arena-uk.png"  group-title="UK - SPORTS",Sky Sports Arena HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3NGe4lOy2fV2Ak8iSpH_mSzJllFI7QuMmaqdctoniN1u
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sports Arena SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-arena-uk.png"  group-title="UK - SPORTS",UK: Sky Sports Arena SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3P5NiE5FmjfV-cHC2e7U7wp0hUhJwbBlRLVK28T6DJNg
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket FHD 50FPS" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-cricket-uk.png"  group-title="UK - SPORTS",UK: Sky Sports Cricket FHD 50FPS
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3C4MTX2Zn2JegrQB49FgtwWagM-yCwV9L5cYcPnUYPMY
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket FHD HEVC 25fps" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-cricket-uk.png"  group-title="UK - SPORTS",UK: Sky Sports Cricket FHD HEVC 25fps
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3CnQZ7esHBK8d3U7kBGZpp2u73zhEMekVCOzBpN2qGRP
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-cricket-uk.png"  group-title="UK - SPORTS",Sky Sports Cricket HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3EUbwlDjE2pYI2BuCN8UHhtzpKkrdnsf5sADF1YweO0s
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-cricket-uk.png"  group-title="UK - SPORTS",UK: Sky Sports Cricket SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Khq0v2vsSBTa-j4NG4TS1-Sq3sFkcMdiS7EVHQbpNLE
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 FHD 50FPS" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-f1-uk.png"  group-title="UK - SPORTS",UK: Sky Sports F1 FHD 50FPS
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3H8SjT6e_gokkc18GAY3DF2M5-U_057VSKwwCx3oiXVi
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 FHD HEVC 25fps" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-f1-uk.png"  group-title="UK - SPORTS",UK: Sky Sports F1 FHD HEVC 25fps
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3AG3wD8LT4zEurPf0l6812REd4FaDX2Wj0IEwJVVD2Kh
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky Sports F1 HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-f1-uk.png"  group-title="UK - SPORTS",Sky Sports F1 HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3H7I73DXQ1riCGxUBoP4UvN8p7zqYPWdqybjQciW8QIh
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-f1-uk.png"  group-title="UK - SPORTS",UK: Sky Sports F1 SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3HdIMjO0Vy3-70OlAU2mwftF8-2YAXaL-eP-7VuCAptd
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football FHD 50FPS" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-football-uk.png"  group-title="UK - SPORTS",UK: Sky Sports Football FHD 50FPS
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3DzgTd4QCJRYMzKQiE71vXRjIF4Bwe3EyCsrXmbpdKOF
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football FHD HEVC 25fps" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-football-uk.png"  group-title="UK - SPORTS",UK: Sky Sports Football FHD HEVC 25fps
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3FySjkwPNdUPBF5oPtdYl8dSDzeunw-1tgDqCncwLfTH
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-football-uk.png"  group-title="UK - SPORTS",Sky Sports Football HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3OAJng4d3GMGhKHYEJ2bQEQq-9bdW08EfeCTAOSD4ppg
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-football-uk.png"  group-title="UK - SPORTS",UK: Sky Sports Football SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3KVzHaNksedSmEm3I0EQExUjQgD8rk-iV4mQ0h5wY8d3
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf FHD 50FPS" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-golf-uk.png"  group-title="UK - SPORTS",UK: Sky Sports Golf FHD 50FPS
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3G4jrNEXTbrTK65uvlzHvHPzdHB7bgr0rSuxOCgzXSyo
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf FHD HEVC 25fps" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-golf-uk.png"  group-title="UK - SPORTS",UK: Sky Sports Golf FHD HEVC 25fps
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3P_K-lkxdse8_V6KOHF5l10cnMpLrPd-iSeEK2jIixp8
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="Sky Sports Golf HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-golf-uk.png"  group-title="UK - SPORTS",Sky Sports Golf HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3EdwINngiF86FOntSSgctOA_e5JS2XB5qhvwj4Ad6cYo
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-golf-uk.png"  group-title="UK - SPORTS",UK: Sky Sports Golf SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3HSboDOmz6pNEKqtsKvQVfQ3KfdTfZuiqgEoeR06uDsD
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sports Main Event FHD 50FPS" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-main-event-uk.png"  group-title="UK - SPORTS",UK: Sky Sports Main Event FHD 50FPS
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Kiq_kCM_3_OR_wtXN6wBlU5t0HlskxxbGNerdJIArBt
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sports Main Event FHD HEVC 25fps" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-main-event-uk.png"  group-title="UK - SPORTS",UK: Sky Sports Main Event FHD HEVC 25fps
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LjVh-VKUjAkn4H0uQFgBP6YzMjPy1HwmyAs8gyVsulA
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-main-event-uk.png"  group-title="UK - SPORTS",Sky Sports Main Event HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3AJUtkTNBIpOtEw2DO8glhl-JRHk05VSjGhNkveObrzf
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sports Main Event SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-main-event-uk.png"  group-title="UK - SPORTS",UK: Sky Sports Main Event SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Ilnk9_I49ImZ15nrgTKkOVQZmzTcyIYgqClwqkoxOqj
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports Mix FHD 50FPS" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-mix-uk.png"  group-title="UK - SPORTS",UK: Sky Sports Mix FHD 50FPS
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3NOzyQPjABFcfQ1rcN2LhD7MdYlo2GaVvGoPXn9fDT4W
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports Mix FHD HEVC 25fps" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-mix-uk.png"  group-title="UK - SPORTS",UK: Sky Sports Mix FHD HEVC 25fps
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3NJFxFXEatSMV1hihrkSugveMRbd__rhkv8ACo4egT_T
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="Sky Sports Mix HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-mix-uk.png"  group-title="UK - SPORTS",Sky Sports Mix HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Bc67yYlgkgvb41-gFi9gsown8M1cYrDBsLjB99H8wCr
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports Mix SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-mix-uk.png"  group-title="UK - SPORTS",UK: Sky Sports Mix SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3K5PMdBSsM6Lpp85evHQvIiijIK-zxZUoOW29wmnS6yN
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News FHD 50FPS" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-sports-news-uk.png"  group-title="UK - SPORTS",UK: Sky Sports News FHD 50FPS
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3MKOUum3M9_yBUO6Pvt2QNVR0wEgYtsDnwb_K9ZhOCxt
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News FHD HEVC 25fps" tvg-logo="https://media.info/i/lf/0/1600877510/1087.png"  group-title="UK - SPORTS",UK: Sky Sports News FHD HEVC 25fps
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Eiwc1sj3footVl4Z8iB54MWoqJE2ULmgLjIJ2D9apst
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="Sky Sports News HD" tvg-logo="https://media.info/i/lf/0/1600877510/1087.png"  group-title="UK - SPORTS",Sky Sports News HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3DZd59xShDMrKfqxcdThIFSZZqGkElVfL49TjUwkAt3C
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News SD" tvg-logo="https://media.info/i/lf/0/1600877510/1087.png"  group-title="UK - SPORTS",UK: Sky Sports News SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3IqWHquu9UrSv0dtUZA-d7ZpxjAPU1pbH-w8SFeNNwnA
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="UK: Sky Sports NFL FHD 50FPS" tvg-logo="https://www.digitaltveurope.com/files/2020/08/SkySports-NFL.png"  group-title="UK - SPORTS",UK: Sky Sports NFL FHD 50FPS
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3E2grBP1GFSMtsRhH8Ocam_3kS3VCOE9hIwr6NzH0aRm
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="UK: Sky Sports NFL/ACTION FHD HEVC 25fps" tvg-logo="https://www.digitaltveurope.com/files/2020/08/SkySports-NFL.png"  group-title="UK - SPORTS",UK: Sky Sports NFL/ACTION FHD HEVC 25fps
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3B-6zuZqzSGrh4kwuEmqKEKQHIi1uuD5fZyCAwjtDJRH
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="Sky Sports NFL HD" tvg-logo="https://www.digitaltveurope.com/files/2020/08/SkySports-NFL.png"  group-title="UK - SPORTS",Sky Sports NFL HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3MBYmGIcPKVpYjc7l3h-ObDJA5iv425J5kQ42RlyFI1D
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="UK: Sky Sports NFL SD" tvg-logo="https://www.digitaltveurope.com/files/2020/08/SkySports-NFL.png"  group-title="UK - SPORTS",UK: Sky Sports NFL SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3GQFgZyNN4XsrVZiB09N6Z0tlXw_5dSnOVHa3jdJWpi6
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sports Premier Leaugue FHD 50FPS" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png"  group-title="UK - SPORTS",UK: Sky Sports Premier Leaugue FHD 50FPS
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3OK4ODtwEg3fZmYuwOe6NG3djJ0m2dpRLjYyPKyLL34z
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sports Premier League FHD HEVC 25fps" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png"  group-title="UK - SPORTS",UK: Sky Sports Premier League FHD HEVC 25fps
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Ek_HjSIkOLjpCvsCJ6H3dNYM9ofjGfXF_niVuwa9Hki
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Sports Premier League HD" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png"  group-title="UK - SPORTS",Sky Sports Premier League HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3CqBmcX3ehlMrdJsyjdbpGn7uPn3fVsBJ0RUvlabU430
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sports Premier League SD" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png"  group-title="UK - SPORTS",UK: Sky Sports Premier League SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3InpYXz0_nG3ttt88p_emFpUVQdZVs1m3CvmJa8kyRT2
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK: Sky Sports Racing FHD 50FPS" tvg-logo="https://media.info/i/lf/0/1546303327/1161.png"  group-title="UK - SPORTS",UK: Sky Sports Racing FHD 50FPS
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LaPj1BBxmmnffMEeP_o0Ixmk_dlLA935p-V11qwnMx1
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK: Sky Sports Racing FHD HEVC 25fps" tvg-logo="https://media.info/i/lf/0/1546303327/1161.png"  group-title="UK - SPORTS",UK: Sky Sports Racing FHD HEVC 25fps
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3FXQGABS8OTXRgrCsOOJbtjtohZD3inzP7fYZyLJ6r8Q
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="Sky Sports Racing HD" tvg-logo="https://media.info/i/lf/0/1546303327/1161.png"  group-title="UK - SPORTS",Sky Sports Racing HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3BQtAecpuDYeexYUHqPXJtrFA77vhhSge3mKefKM687f
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK: Sky Sports Racing SD" tvg-logo="https://media.info/i/lf/0/1546303327/1161.png"  group-title="UK - SPORTS",UK: Sky Sports Racing SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3MINbWeIEbjyK8Y7s4Km_fQRQqz7w1_vyEH2F_uUH2T1
+#EXTINF:-1 tvg-id="skysportsboxoffice.uk" tvg-name="UK: Sky Sports Box Office FHD" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/d6/c9/58/d6c958c0-5a81-ee42-a82a-8d35db7da4ee/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png"  group-title="UK - SPORTS",UK: Sky Sports Box Office FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3C-ilAaM57KVXnVEdoad5MZ7rydzj-vURI5XqltQqUnV
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: BT Sport 1 FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-1-uk.png"  group-title="UK - SPORTS",UK: BT Sport 1 FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3I03BpPv2JgF8rgxD0KxPNgamp_ZHLXZxAQqWBrxgdoh
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: BT Sports 1 HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-1-uk.png"  group-title="UK - SPORTS",UK: BT Sports 1 HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3FqbYlv-GpRbEPQzxB5KNMftLsTisIcK84gFexG2OYGM
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: BT Sport 1 SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-1-uk.png"  group-title="UK - SPORTS",UK: BT Sport 1 SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3PEzgAUFkfXjSVGC4ggJktDPR3nIqUB4v1cAvJdhke2X
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: BT Sport 2 FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-2-uk.png"  group-title="UK - SPORTS",UK: BT Sport 2 FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3L5q7yolNwztElW80NgklBYLJc5wwR0D3SWvpmkkDC1w
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: BT Sports 2 HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-2-uk.png"  group-title="UK - SPORTS",UK: BT Sports 2 HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Da5FSa4rnCyDUXznSdhNlwZxcSkSGydeMsDHD0meq8n
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: BT Sport 2 SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-2-uk.png"  group-title="UK - SPORTS",UK: BT Sport 2 SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3N5xvBLQPIK0MrYWUccBAQfXCHk1GHrQgD_amuXFwqTN
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT Sport 3 FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-3-uk.png"  group-title="UK - SPORTS",UK: BT Sport 3 FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3C0HNMzyW5rCgEXiCJW7YTgoZtalg_jZcaPSJxIa6cAn
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT Sports 3 HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-3-uk.png"  group-title="UK - SPORTS",UK: BT Sports 3 HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3E51B1kQ60vjDcArfz1jfpz4s7uZYLQ2Kqp582vFYMdy
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT Sport 3 SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-3-uk.png"  group-title="UK - SPORTS",UK: BT Sport 3 SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3GySMnYBqmJksXhQnWrX9tQJzNYKVdwQ81eGder_mWdd
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT Sport ESPN FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-espn-uk.png"  group-title="UK - SPORTS",UK: BT Sport ESPN FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3G8Eda1oeZl-evSYwLiSljAVDzaERJcbWLvdpNMIfh23
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT Sports ESPN HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-espn-uk.png"  group-title="UK - SPORTS",UK: BT Sports ESPN HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3HritMA7DrCO5tsfRxd4UsiURr4ZkoylL8GOA4mcCSqZ
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT Sport ESPN SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-espn-uk.png"  group-title="UK - SPORTS",UK: BT Sport ESPN SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3H66B4zpQJ79WyNt13YlqUee8KPSRDzhGTYqAZAhDGYE
+#EXTINF:-1 tvg-id="btsportx1.uk" tvg-name="UK: BT Sport Extra 1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-extra-1-uk.png"  group-title="UK - SPORTS",UK: BT Sport Extra 1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3OU-Gex0DjPDp-BJpIef9YbAVicK6LIXp29l1mereMIy
+#EXTINF:-1 tvg-id="btsportx2.uk" tvg-name="UK: BT Sport Extra 2" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-extra-2-uk.png"  group-title="UK - SPORTS",UK: BT Sport Extra 2
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3OtpiPZoW4kP1z1ZOsDBKCh5v_6Z1R2gkyKuAK0-53wW
+#EXTINF:-1 tvg-id="btsportx3.uk" tvg-name="UK: BT Sport Extra 3" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-extra-3-uk.png"  group-title="UK - SPORTS",UK: BT Sport Extra 3
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3PUMFcrj5BOdABjuTGqZN-4MNa8ZHqFrMKdTQyo69c7K
+#EXTINF:-1 tvg-id="btsportx4.uk" tvg-name="UK: BT Sport Extra 4" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-extra-4-uk.png"  group-title="UK - SPORTS",UK: BT Sport Extra 4
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Az89KMBRIYE8-cW38ZTsrdd6v59m2uYoGBSglMSgmj2
+#EXTINF:-1 tvg-id="btsportx5.uk" tvg-name="UK: BT Sport Extra 5" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-extra-5-uk.png"  group-title="UK - SPORTS",UK: BT Sport Extra 5
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Av9Q-ZHGo_HT2q_yR6UFSvLNsKFtAFP7D6ZLsw_ppy-
+#EXTINF:-1 tvg-id="btsportx6.uk" tvg-name="UK: BT Sport Extra 6" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-extra-6-uk.png"  group-title="UK - SPORTS",UK: BT Sport Extra 6
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3BfkIOqVm9ogl9-aUj_h_FvpJwvitHkWXgGK-7ut43Cp
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Mosaic" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-mosaic-uk.png"  group-title="UK - SPORTS",UK: BT Sport Mosaic
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Gnque0mfgT0OwnKz4534nOGPAxt6xE-F0x650D43B1N
+#EXTINF:-1 tvg-id="btsportultimate.uk" tvg-name="UK: BT Sport Mosaic 2" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-mosaic-uk.png"  group-title="UK - SPORTS",UK: BT Sport Mosaic 2
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3BMk4ngAjoF-mN8GVoHF8Y2Vm2Y20jwkJ1wZF9tGil1d
+#EXTINF:-1 tvg-id="btsportsboxoffice.uk" tvg-name="UK: BT Box Office FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-box-office-uk.png"  group-title="UK - SPORTS",UK: BT Box Office FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Oe4dCqEQGInX9KOGyiVvW4ZLUXBVkcxZYdLBBl6CpLh
+#EXTINF:-1 tvg-id="btsportsboxoffice.uk" tvg-name="UK BT Box Office HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bt-sport-box-office-uk.png"  group-title="UK - SPORTS",UK BT Box Office HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LaDaPfGSCfsgStnwJDxnpCov3YQ7acDagXdWGrb8HL6
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="UK: BoxNation SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/box-nation-uk.png"  group-title="UK - SPORTS",UK: BoxNation SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Kt0tJ-pxSSlE7sO3YoP9_BXS-yr5mNi_7a1AZfCCLCV
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK: Eurosport 1 FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/eurosport-1-uk.png"  group-title="UK - SPORTS",UK: Eurosport 1 FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3NgLKnLK3Kz7EPGzx7bP_UEGvkTNiNQZ12-4NfjYfD_l
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK: Eurosports 1 HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/eurosport-1-uk.png"  group-title="UK - SPORTS",UK: Eurosports 1 HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3FOTBtTNlpPiYAOGbexTcmRLZMhMxilYbV-QLqIBAW1J
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK: Eurosport 1 SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/eurosport-1-uk.png"  group-title="UK - SPORTS",UK: Eurosport 1 SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3AcFFjDSB69JjDL_n5-UJ1qm-uxq1T-Cbdr8lQCVziy6
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: Eurosport 2 FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/eurosport-2-uk.png"  group-title="UK - SPORTS",UK: Eurosport 2 FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3K2SOIkatgFT_k7f_EdP_tGW6sGY4JOifWD3aukCDA8B
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: Eurosports 2 HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/eurosport-2-uk.png"  group-title="UK - SPORTS",UK: Eurosports 2 HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3HMJpOhpSVrFa3_NiMAxbgOXAlGh59cyHZgQxJzbFkym
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: Eurosport 2 SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/eurosport-2-uk.png"  group-title="UK - SPORTS",UK: Eurosport 2 SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3JLgHnrmS3bM8oS4qtjCLEGRUqCnkf98myMNhF4Dp_sd
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 3" tvg-logo=""  group-title="UK - SPORTS",UK: Eurosport 3
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3C6lzwi9fh6HqOm2VTzm4mDBClDm2igGZAW4zsJcwUQe
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 4" tvg-logo=""  group-title="UK - SPORTS",UK: Eurosport 4
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3C4DzwvgN23FQfDC7BdWgqmG_PtqW8xswosCWB3w7avu
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 5" tvg-logo=""  group-title="UK - SPORTS",UK: Eurosport 5
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LoZmKBuyTWZGNC0zGT6ZQBphxj-GfXMam7IM_tyrEPS
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="UK: FreeSports FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/free-sports-uk.png"  group-title="UK - SPORTS",UK: FreeSports FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3GdrAXlWB7rKFJg-7C1bDYPRHvf2iimYLoY0zdIynXfL
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="UK: FreeSports HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/free-sports-uk.png"  group-title="UK - SPORTS",UK: FreeSports HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Fy0K1fPhSw6HQ4CzHlXiKvz0CfnItLIla1BbA64EbhH
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="UK: Freesports SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/free-sports-uk.png"  group-title="UK - SPORTS",UK: Freesports SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3N218HgePN-5eQ7t9WXfhSwuszNwSJvjjAcAmun4aY2b
+#EXTINF:-1 tvg-id="horseandcountry.uk" tvg-name="UK: Horse & Country" tvg-logo="https://horseandcountry.tv/wp-content/themes/hctv/img/hctv_logo.png"  group-title="UK - SPORTS",UK: Horse & Country
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3IrkSDZIoM_wmS8vvneq8L6yIncA8RtSONqxLOWBj6kH
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK: MUTV FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/mutv-uk.png"  group-title="UK - SPORTS",UK: MUTV FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3C618k0HRjqF7u1RwBCzUYXG-WD_h2Au8AdLuBKEuwmg
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK: MUTV HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/mutv-uk.png"  group-title="UK - SPORTS",UK: MUTV HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LxDzWt7awR24I0lf8r9BwxI8hkC88102_d71VjYxY1O
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK: MUTV SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/mutv-uk.png"  group-title="UK - SPORTS",UK: MUTV SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3DRhJ4Zfewqikgu5mLBdB7Jomkaw3up3_mMvh-vH-Nu_
+#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK: LaLigaTV FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/laliga-tv-uk.png"  group-title="UK - SPORTS",UK: LaLigaTV FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3NLkhxqqK9REf2vU43mhFjuG-Ekr2GOechhW-_P80nm6
+#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK: LaLigaTV HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/laliga-tv-uk.png"  group-title="UK - SPORTS",UK: LaLigaTV HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3BvbeL2b-OqmpmyVIfLimJPh8rt6ca3pUzxJvBzPoamG
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="UK: LFC TV HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/lfctv-uk.png"  group-title="UK - SPORTS",UK: LFC TV HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3JQ0n8Mog6ovdCa2g9yo41ivJ6b5eev8KVcxZ3saKue7
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK: Premier Sport 1 FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/premier-sports-1-uk.png"  group-title="UK - SPORTS",UK: Premier Sport 1 FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3NlOeXmB8AxSmGqs8KpT61h3CR9UgzbkzERKdNaax_TY
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK: Premier Sport IR 1 HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/premier-sports-1-uk.png"  group-title="UK - SPORTS",UK: Premier Sport IR 1 HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3MVRyDrO5ySeLgmsUy2maGN0hSg0GsMSHhtAwW8C3uTc
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK: Premier Sports SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/premier-sports-1-uk.png"  group-title="UK - SPORTS",UK: Premier Sports SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3B0HWXbaITDYj0SCNaMfVsCN9OCzlgq5wDicdnzus5Kb
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK: Premier Sports IR 2 HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/premier-sports-2-uk.png"  group-title="UK - SPORTS",UK: Premier Sports IR 2 HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3B0d8H7qrZ4QnCcMyG5NrHyoSwI454eaMjZX0R94Hkve
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK: Premier Sports UK 2 HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/premier-sports-2-uk.png"  group-title="UK - SPORTS",UK: Premier Sports UK 2 HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3CJfIbrjFWQURE4UrPjPXTUDiX5VKTfkEgucNmXnNEis
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK: Premier Sports 2 UK SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/premier-sports-2-uk.png"  group-title="UK - SPORTS",UK: Premier Sports 2 UK SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3EmIH_8pTZ55SKMg85mKeoTeTsiEXLgObJsmOxrA7Age
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK: Racing TV  FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/racing-tv-uk.png"  group-title="UK - SPORTS",UK: Racing TV  FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Fh3C570N3VdQIQmral0S1LT3RyWcYOpaLxd93TRPSGZ
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="Racing tv HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/racing-tv-uk.png"  group-title="UK - SPORTS",Racing tv HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Mt2-V6-KIy4yA1B6E88DRIRGKSvSrgwfq_K_OqH_Il_
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK: Racing TV SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/racing-tv-uk.png"  group-title="UK - SPORTS",UK: Racing TV SD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3BS_xMWxU6pN-BiRkBX15K15esoIPXePgp-7XJtW4JuL
+#EXTINF:-1 tvg-id="sportystuff.uk" tvg-name="UK: SPORTY STUFF FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sporty-stuff-tv-uk.png"  group-title="UK - SPORTS",UK: SPORTY STUFF FHD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3J0qYVLdPOWqNYO1BvXiPIu_KVWsN-aFdtKJZsQFsLv0
+#EXTINF:-1 tvg-id="sportystuff.uk" tvg-name="UK: Sporty Stuff HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sporty-stuff-tv-uk.png"  group-title="UK - SPORTS",UK: Sporty Stuff HD
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3KhoBPRb9upYSjPtHqKwOEjvm-F1W1HOLNxt2P6Nwhxt
+#EXTINF:-1 tvg-id="" tvg-name="PDC Darts 1" tvg-logo="https://www.lawinsport.com/media/zoo/images/PDC_Logo_d8634e847d58553775ac1c4066c05446.jpg"  group-title="UK - SPORTS",PDC Darts 1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3EqFDJKzACt-D8uKPbZZBQeC8H0QP0CH7auX5BY2rGhV
+#EXTINF:-1 tvg-id="" tvg-name="PDC Darts 2" tvg-logo="https://www.lawinsport.com/media/zoo/images/PDC_Logo_d8634e847d58553775ac1c4066c05446.jpg"  group-title="UK - SPORTS",PDC Darts 2
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3AmkSD4yGUfhI2kdOrKP7eZM0Twn55SqeVhS9IF15uwm
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: BT Sport 1 FHD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png"  group-title="UK - SPORTS",UK: BT Sport 1 FHD HEVC
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Mth-akLR-H7XUD1thAdFAAhemJ0xljQPo5DCtkC7KLs
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: Bt Sport 1 FHD 50FPS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png"  group-title="UK - SPORTS",UK: Bt Sport 1 FHD 50FPS
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3LViYZ2avCAdmfSpWyyecBpQMvZs3T9pFw21t4V1Nvv6
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT Sport ESPN FHD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/BTSPORT_ESPN_BLACK_RED.png"  group-title="UK - SPORTS",UK: BT Sport ESPN FHD HEVC
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3E1T7L7iffIDLLsH-oSAiBS7Adri738SBYFUwleunggz
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT Sport 3 FHD HEVC" tvg-logo="https://www.pngfind.com/pngs/m/342-3427673_btsport-3-black-rgb-new-bt-sport-logo.png"  group-title="UK - SPORTS",UK: BT Sport 3 FHD HEVC
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3GPQVmPYzrF6LNW656bkvurbcfKbLy7LnZx97i_ew4l9
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: Bt Sport ESPN FHD 50FPS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/BTSPORT_ESPN_BLACK_RED.png"  group-title="UK - SPORTS",UK: Bt Sport ESPN FHD 50FPS
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3NLYn5Vk8vH8lKHYLyabExO6nb1k8mw1mK71lur8teff
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: BT Sport 2 FHD HEVC" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1540.1647385004.png"  group-title="UK - SPORTS",UK: BT Sport 2 FHD HEVC
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3CBHxPaLMY1-5Xy7Bn4U7aQepeWLJz31ouQYD6kJVMeQ
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: Bt Sport 3 FHD 50FPS" tvg-logo="https://www.pngfind.com/pngs/m/342-3427673_btsport-3-black-rgb-new-bt-sport-logo.png"  group-title="UK - SPORTS",UK: Bt Sport 3 FHD 50FPS
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3L0Z2_gOpFCh2MQ6XcoyFTcxSy9C12Riovqn9t1m62xI
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: Bt Sport 2 FHD 50FPS" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1540.1647385004.png"  group-title="UK - SPORTS",UK: Bt Sport 2 FHD 50FPS
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3PA4qrC-m_xVAeHdakeHrqxtMw1NPjg-WsfZyAKGhGYL
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="UK: LFC TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eab43347e741baa1fc960207198c8e6b.png"  group-title="UK ➾ Football",UK: LFC TV
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3NqDBGb-Sxxr1pOnpilUdCKtabJ3ra_6u1YyvLmXlG8Y
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK: MUTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/73eef793ce91db2ff4122b6e3581ec7b.png"  group-title="UK ➾ Football",UK: MUTV
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3CoCixqcRGetjY0dbc0X2SmEsRFIwWcryRNlFvkyC6KV
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK: Premier Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9c7d3f18c08487ae764df48783c089a1.png"  group-title="UK ➾ Football",UK: Premier Sports 1
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3O1TFziR7ZEovuJ3FibMn3s6Q2gx9ziJXDW_f3m7PU29
+#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/35affbf18fb742f52581f3f069a97258.png"  group-title="UK ➾ Football",UK: Premier Sports 2
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3JCd0jqYw3tUbxA-7h2SIRoC7sCXGj5Ml6GzyKb_HXO5
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/860b7e2f2ed148c938115c734f31ef62.png"  group-title="UK ➾ Football",UK: Sky Sports Football
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3A3gCY9-spWVSlvFzvhwnfX2IVYKEEbEtKjxqa5Ro0-J
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png"  group-title="UK ➾ Football",UK: Sky Sports Premier League
+https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Jm6QHNsxqBB4W9WmLDN6h56g-Qw7Fu6tHla6BRNioTh
